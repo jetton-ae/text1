@@ -138,12 +138,17 @@
                         background-color: rgba(40, 119, 217, 0.1);
                     }
                     
+                    .sw {
+                        margin-top: 5rem;
+                    }
+                    
                     .hww {
+                        margin-top: 5rem;
                         background-color: rgba(7, 51, 47, 0.1);
                     }
                     
                     .hwwheader {
-                        margin-top: 5%;
+                        margin-top: 5rem;
                         margin-bottom: -5%;
                     }
                     
@@ -167,7 +172,7 @@
                         background-color: #07332f;
                         color: white;
                         text-align: center;
-                        padding: 17% 0;
+                        padding: 5rem 0;
                     }
                     
                     .footer {
@@ -176,7 +181,7 @@
                     }
                     
                     .mail {
-                        margin-bottom: 55%;
+                        margin-bottom: 12rem;
                         color: rgb(255, 255, 255);
                         text-align: center;
                     }
