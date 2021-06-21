@@ -183,7 +183,17 @@
                         background-color: #07332f;
                         color: white;
                         text-align: center;
-                        padding: 5rem 0;
+                        padding-top: 15rem;
+                        padding-bottom: 5rem;
+                    }
+                    
+                    @media screen and (max-width: 479px) {
+                        .chat {
+                            background-color: #07332f;
+                            color: white;
+                            text-align: center;
+                            padding: 5rem 0;
+                        }
                     }
                     
                     .footer {
