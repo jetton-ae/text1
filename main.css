@@ -147,6 +147,17 @@
                             color: #07332f;
                         }
                         
+                        @media (min-width: 1400px) {
+                            .container-xxl,
+                            .container-xl,
+                            .container-lg,
+                            .container-md,
+                            .container-sm,
+                            .container {
+                                max-width: 1220px;
+                            }
+                        }
+                        
                         .text {
                             width: 80px;
                             color: rgba(32, 32, 32, 0.75);
