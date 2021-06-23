@@ -131,14 +131,18 @@
                             max-width: 100%;
                             margin-top: 0px;
                             margin-bottom: 24px;
-                            font-family: 'Raleway', sans-serif;
-                            color: #9eadac;
+                            /* font-family: 'Raleway', sans-serif; */
+                            color: hsla(0, 0%, 100%, 0.5) !important;
                             font-size: 84px;
                             line-height: 1.2;
                             font-weight: 700;
                             text-align: center;
                             letter-spacing: -1px;
                             text-transform: none;
+                        }
+                        
+                        .heading-1.hero>a:link {
+                            color: hsla(0, 0%, 100%, 0.5) !important;
                         }
                         
                         @media screen and (max-width: 991px) {
