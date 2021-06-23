@@ -19,7 +19,7 @@
                         }
                         
                         h2 {
-                            font-size: 32px;
+                            font-size: 64px;
                             line-height: 36px;
                             margin-top: 20px
                         }
@@ -103,6 +103,11 @@
                         }
                         
                         h1 {
+                            font-family: 'Benne', serif;
+                            font-weight: 900;
+                        }
+                        
+                        h2 {
                             font-family: 'Benne', serif;
                             font-weight: 900;
                         }
@@ -265,6 +270,7 @@
                         }
                         
                         .hwwheadertext {
+                            margin-top: 45px;
                             width: 50%;
                             color: rgba(7, 51, 47, 0.8);
                         }
