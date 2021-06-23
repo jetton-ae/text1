@@ -223,6 +223,16 @@
                             color: rgba(32, 32, 32, 0.75);
                         }
                         
+                        .wwd {
+                            width: 45%;
+                        }
+                        
+                        @media (max-width: 992px) {
+                            .wwd {
+                                width: 100%;
+                            }
+                        }
+                        
                         .selectedbg1 {
                             background-color: rgba(255, 222, 104, 0.45);
                             perspective: 1000px;
