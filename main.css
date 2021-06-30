@@ -198,11 +198,7 @@
                         
                         .selected {
                             color: #07332f;
-<<<<<<< HEAD
                             margin-bottom: -5%;
-=======
-                            padding-bottom: -5%;
->>>>>>> parent of 15eee08 (重作)
                         }
                         
                         .selectedtext {
@@ -227,8 +223,6 @@
                             color: rgba(32, 32, 32, 0.75);
                         }
                         
-<<<<<<< HEAD
-=======
                         .wwd {
                             width: 45%;
                         }
@@ -239,7 +233,6 @@
                             }
                         }
                         
->>>>>>> parent of 15eee08 (重作)
                         .selectedbg1 {
                             background-color: rgba(255, 222, 104, 0.45);
                             perspective: 1000px;
